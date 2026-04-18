@@ -3,7 +3,7 @@
 <h3 align="center">💼 RPA / Automation Developer | ⚙️ Backend Developer</h3>
 
 <p align="center">
-🏢 Entorno corporativo multinacional • 🤖 Automatización de procesos • 💻 Desarrollo de software
+🤖 Automatización de procesos • 💻 Backend • 🧩 Resolución de problemas
 </p>
 
 ---
@@ -40,17 +40,16 @@
 
 ## 🧠 Sobre mí
 
-Soy desarrollador enfocado en automatización de procesos (RPA) dentro de un entorno corporativo multinacional, con experiencia en desarrollo backend y aplicaciones de escritorio.
+Soy desarrollador enfocado actualmente en automatización de procesos (RPA) y desarrollo backend.
 
-Trabajo creando soluciones que optimizan procesos internos, reducen tareas manuales y mejoran la eficiencia operativa en sistemas empresariales.
+Trabajo creando soluciones que ayudan a reducir tareas manuales y mejorar la eficiencia de sistemas internos, principalmente en entornos empresariales.
 
-También desarrollo interfaces de escritorio utilizando PyQt6, integradas con lógica backend y automatizaciones.
+Me gusta entender cómo funcionan las cosas por detrás y construir soluciones simples pero efectivas.
 
-- 🔭 Desarrollo automatizaciones empresariales y soluciones backend
-- ⚙️ Enfoque en eficiencia, procesos y sistemas internos
-- 🖥️ Experiencia en aplicaciones de escritorio con PyQt6
-- 🌱 Continuo aprendiendo backend, arquitectura de software y buenas prácticas
-- 🎯 Objetivo: seguir mejorando como desarrollador en entornos corporativos y software de automatización
+- 🔭 Actualmente desarrollo automatizaciones y soluciones backend
+- ⚙️ Enfocado en procesos, lógica y eficiencia
+- 🌱 Aprendiendo y mejorando constantemente en backend y arquitectura de software
+- 🎯 Objetivo: seguir creciendo como desarrollador y mejorar mis habilidades técnicas
 
 ---
 
@@ -82,17 +81,15 @@ También desarrollo interfaces de escritorio utilizando PyQt6, integradas con l�
 
 ---
 
-## ⚙️ Enfoque profesional
+## ⚙️ Filosofía
 
 <p align="center">
 <i>"Automatizar lo repetitivo, optimizar lo importante."</i>
 </p>
 
-Me enfoco en construir soluciones eficientes dentro de entornos corporativos, combinando automatización, backend y desarrollo de software de escritorio.
-
 ---
 
-## 🎮 Intereses personales
+## 🎮 Side Quest
 
 <p align="center">
 🎮 Gaming competitivo • 🧩 Resolución de problemas • 📚 Aprendizaje continuo
