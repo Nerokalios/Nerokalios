@@ -78,16 +78,11 @@ I enjoy understanding how things work under the hood and building simple but eff
 
 ---
 
-## 📊 GitHub stats
+## 🐍 Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
 ## ⚙️ Philosophy
