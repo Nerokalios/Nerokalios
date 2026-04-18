@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 
-  <a href="mailto:nerokalios6@gmail.com.com">
+  <a href="mailto:nerokalios6@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -40,10 +40,13 @@ I'm a developer currently focused on **process automation (RPA)** and **backend 
 
 I build solutions that help reduce manual work and improve the efficiency of internal systems, mainly in enterprise environments.
 
+I also have knowledge in **game development**, working with tools like Unity and Unreal Engine, mainly using C# and exploring game design and interactive systems.
+
 I enjoy understanding how things work under the hood and building simple but effective solutions.
 
 - 🔭 Currently working on automation and backend solutions  
 - ⚙️ Focused on processes, logic, and efficiency  
+- 🎮 Experience with game development (Unity, Unreal, C#)  
 - 🌱 Constantly improving my backend and software architecture skills  
 - 🎯 Goal: keep growing as a developer and improving my technical skills  
 
@@ -74,8 +77,16 @@ I enjoy understanding how things work under the hood and building simple but eff
 <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
-<!-- Game Dev -->
+</p>
+
+---
+
+## 🎮 Game Development
+
+<p align="center">
+
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
 <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge"/>
