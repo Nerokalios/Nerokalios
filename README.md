@@ -1,68 +1,87 @@
-# 👋 Hola, soy Nerokalios
+<h1 align="center">👋 Hola, soy [Tu Nombre]</h1>
 
-💼 RPA / Automation Developer | 💻 Software Developer en formación  
-🏢 Trabajo en una empresa multinacional automatizando procesos  
-📍 Brasil | 🚀 En constante crecimiento técnico
+<h3 align="center">💼 RPA / Automation Developer | ⚙️ Backend Developer</h3>
 
----
-
-## 🧠 Perfil
-
-Soy desarrollador enfocado en automatización de procesos y desarrollo de soluciones que optimizan tareas dentro del entorno empresarial.
-
-Actualmente trabajo en una empresa multinacional donde desarrollo automatizaciones para mejorar eficiencia, reducir tareas manuales y optimizar flujos operativos.
-
-Me interesa tanto el lado técnico del software como la lógica detrás de los procesos de negocio.
-
-- 🔭 Desarrollo automatizaciones en entorno corporativo
-- 🧠 Enfoque en optimización de procesos y eficiencia
-- 🌱 Aprendiendo backend, estructuras de datos y arquitectura de software
-- 🎯 Objetivo: evolucionar hacia un perfil de Software Engineer completo
+<p align="center">
+🏢 Entorno corporativo multinacional • 🤖 Automatización de procesos • 💻 Desarrollo de software
+</p>
 
 ---
 
-## 🛠️ Tecnologías
+## 🌐 Conecta conmigo
 
-**Lenguajes:**
-- Java ☕
-- Python 🐍
-- JavaScript ⚡
+<p align="center">
+  <a href="https://github.com/TU_USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-**Automatización / Tools:**
-- RPA (Automatización de procesos)
-- Git & GitHub 🌿
-- SQL 🗄️
-- Linux 🐧
+  <a href="https://www.linkedin.com/in/TU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:tuemail@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Sobre mí
+
+Soy desarrollador enfocado en automatización de procesos (RPA) dentro de un entorno corporativo multinacional, con experiencia en desarrollo backend y aplicaciones de escritorio.
+
+Trabajo creando soluciones que optimizan procesos internos, reducen tareas manuales y mejoran la eficiencia operativa en sistemas empresariales.
+
+También desarrollo interfaces de escritorio utilizando PyQt6, integradas con lógica backend y automatizaciones.
+
+- 🔭 Desarrollo automatizaciones empresariales y soluciones backend
+- ⚙️ Enfoque en eficiencia, procesos y sistemas internos
+- 🖥️ Experiencia en aplicaciones de escritorio con PyQt6
+- 🌱 Continuo aprendiendo backend, arquitectura de software y buenas prácticas
+- 🎯 Objetivo: seguir mejorando como desarrollador en entornos corporativos y software de automatización
+
+---
+
+## 🛠️ Stack tecnológico
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## ⚙️ Filosofía de trabajo
+## ⚙️ Enfoque profesional
 
-> “Automatizar lo repetitivo, optimizar lo importante.”
+<p align="center">
+<i>"Automatizar lo repetitivo, optimizar lo importante."</i>
+</p>
 
-Creo en construir sistemas que reduzcan esfuerzo manual y aumenten eficiencia, sin perder claridad ni mantenibilidad.
+Me enfoco en construir soluciones eficientes dentro de entornos corporativos, combinando automatización, backend y desarrollo de software de escritorio.
 
 ---
 
 ## 🎮 Intereses personales
 
-Fuera del trabajo y estudio:
-
-- 🎮 Gaming competitivo y estrategia
-- 🧩 Resolución de problemas complejos
-- 📚 Aprendizaje continuo en software y arquitectura
-
----
-
-## 📫 Contacto
-
-- GitHub: https://github.com/TU_USUARIO
-- Email: nerokalios6@gmail.com
+<p align="center">
+🎮 Gaming competitivo • 🧩 Resolución de problemas • 📚 Aprendizaje continuo
+</p>
