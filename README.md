@@ -93,8 +93,10 @@ I enjoy understanding how things work under the hood and building simple but eff
 
 ---
 
-## 🎮 Side quest
+## 🎮 Steam
 
 <p align="center">
-🎮 Competitive gaming • 🧩 Problem solving • 📚 Continuous learning
+  <a href="https://steamcommunity.com/id/TU_STEAM">
+    <img src="https://steamcard.io/api/card/TU_STEAM" />
+  </a>
 </p>
