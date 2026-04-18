@@ -1,33 +1,38 @@
 # 👋 Hola, soy Nerokalios
 
-💼 Software Developer | 💻 Apasionado por el código | 🎮 Gamer en mi tiempo libre  
-📍 Brasil
+💼 RPA / Automation Developer | 💻 Software Developer en formación  
+🏢 Trabajo en una empresa multinacional automatizando procesos  
+📍 Brasil | 🚀 En constante crecimiento técnico
 
 ---
 
-## 🧠 Sobre mí
+## 🧠 Perfil
 
-Soy desarrollador en formación con enfoque en construir soluciones eficientes, escalables y bien estructuradas.  
-Me gusta combinar un pensamiento analítico con creatividad, tanto en el desarrollo de software como en los juegos.
+Soy desarrollador enfocado en automatización de procesos y desarrollo de soluciones que optimizan tareas dentro del entorno empresarial.
 
-- 🔭 Actualmente trabajando en proyectos personales y académicos
-- 🌱 Aprendiendo desarrollo backend y estructuras de datos
-- 🎯 Enfocado en mejorar como desarrollador full-stack
-- 🎮 Gamer casual: estrategia, FPS y juegos competitivos
+Actualmente trabajo en una empresa multinacional donde desarrollo automatizaciones para mejorar eficiencia, reducir tareas manuales y optimizar flujos operativos.
+
+Me interesa tanto el lado técnico del software como la lógica detrás de los procesos de negocio.
+
+- 🔭 Desarrollo automatizaciones en entorno corporativo
+- 🧠 Enfoque en optimización de procesos y eficiencia
+- 🌱 Aprendiendo backend, estructuras de datos y arquitectura de software
+- 🎯 Objetivo: evolucionar hacia un perfil de Software Engineer completo
 
 ---
 
-## 🛠️ Stack tecnológico
+## 🛠️ Tecnologías
 
 **Lenguajes:**
 - Java ☕
 - Python 🐍
 - JavaScript ⚡
 
-**Herramientas:**
+**Automatización / Tools:**
+- RPA (Automatización de procesos)
 - Git & GitHub 🌿
 - SQL 🗄️
-- Linux 🐧 (básico/intermedio)
+- Linux 🐧
 
 ---
 
@@ -39,23 +44,25 @@ Me gusta combinar un pensamiento analítico con creatividad, tanto en el desarro
 
 ---
 
-## 🎯 Filosofía
+## ⚙️ Filosofía de trabajo
 
-> “Disciplina en el código, creatividad en la solución.”
+> “Automatizar lo repetitivo, optimizar lo importante.”
 
-Construyo software como si fuera un sistema competitivo: optimización, lógica y mejora constante.
+Creo en construir sistemas que reduzcan esfuerzo manual y aumenten eficiencia, sin perder claridad ni mantenibilidad.
 
 ---
 
-## 🎮 Side Quest (modo gamer)
+## 🎮 Intereses personales
 
-- 🧩 Resolución de problemas = puzzles
-- ⚔️ Debugging = boss fights
-- 📈 Progreso constante = ranking competitivo
+Fuera del trabajo y estudio:
+
+- 🎮 Gaming competitivo y estrategia
+- 🧩 Resolución de problemas complejos
+- 📚 Aprendizaje continuo en software y arquitectura
 
 ---
 
 ## 📫 Contacto
 
-- GitHub: https://github.com/Nerokalios
+- GitHub: https://github.com/TU_USUARIO
 - Email: nerokalios6@gmail.com
