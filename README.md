@@ -93,10 +93,6 @@ I enjoy understanding how things work under the hood and building simple but eff
 
 ---
 
-## 🎮 Steam
-
 <p align="center">
-  <a href="https://steamcommunity.com/profiles/76561198414418768/">
-    <img src="https://img.shields.io/badge/Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white"/>
-  </a>
+  <img src="https://steamcard.io/api/card/76561198414418768" />
 </p>
