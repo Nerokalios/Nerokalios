@@ -1,59 +1,55 @@
-<h1 align="center">👋 Hola, soy [Tu Nombre]</h1>
+<h1 align="center">👋 Hi, I'm Nerokalios</h1>
 
 <h3 align="center">💼 RPA / Automation Developer | ⚙️ Backend Developer</h3>
 
 <p align="center">
-🤖 Automatización de procesos • 💻 Backend • 🧩 Resolución de problemas
+🤖 Process automation • 💻 Backend • 🧩 Problem solving
 </p>
 
 ---
 
-## 🌐 Conecta conmigo
+## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO">
+  <a href="https://github.com/Nerokalios">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://instagram.com/TU_INSTAGRAM">
+  <a href="https://instagram.com/joswsal">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="https://steamcommunity.com/id/TU_STEAM">
+  <a href="https://steamcommunity.com/profiles/76561198414418768/">
     <img src="https://img.shields.io/badge/Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white"/>
   </a>
 
-  <a href="https://discord.com/users/TU_DISCORD_ID">
+  <a href="https://discord.com/users/nerokalios">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 
-  <a href="mailto:tuemail@email.com">
+  <a href="mailto:nerokalios6@gmail.com.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🧠 Sobre mí
+## 🧠 About me
 
-Soy desarrollador enfocado actualmente en automatización de procesos (RPA) y desarrollo backend.
+I'm a developer currently focused on **process automation (RPA)** and **backend development**.
 
-Trabajo creando soluciones que ayudan a reducir tareas manuales y mejorar la eficiencia de sistemas internos, principalmente en entornos empresariales.
+I build solutions that help reduce manual work and improve the efficiency of internal systems, mainly in enterprise environments.
 
-Me gusta entender cómo funcionan las cosas por detrás y construir soluciones simples pero efectivas.
+I enjoy understanding how things work under the hood and building simple but effective solutions.
 
-- 🔭 Actualmente desarrollo automatizaciones y soluciones backend
-- ⚙️ Enfocado en procesos, lógica y eficiencia
-- 🌱 Aprendiendo y mejorando constantemente en backend y arquitectura de software
-- 🎯 Objetivo: seguir creciendo como desarrollador y mejorar mis habilidades técnicas
+- 🔭 Currently working on automation and backend solutions  
+- ⚙️ Focused on processes, logic, and efficiency  
+- 🌱 Constantly improving my backend and software architecture skills  
+- 🎯 Goal: keep growing as a developer and improving my technical skills  
 
 ---
 
-## 🛠️ Stack tecnológico
+## 🛠️ Tech stack
 
 <p align="center">
 
@@ -69,7 +65,7 @@ Me gusta entender cómo funcionan las cosas por detrás y construir soluciones s
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
@@ -81,16 +77,16 @@ Me gusta entender cómo funcionan las cosas por detrás y construir soluciones s
 
 ---
 
-## ⚙️ Filosofía
+## ⚙️ Philosophy
 
 <p align="center">
-<i>"Automatizar lo repetitivo, optimizar lo importante."</i>
+<i>"Automate the repetitive, optimize what matters."</i>
 </p>
 
 ---
 
-## 🎮 Side Quest
+## 🎮 Side quest
 
 <p align="center">
-🎮 Gaming competitivo • 🧩 Resolución de problemas • 📚 Aprendizaje continuo
+🎮 Competitive gaming • 🧩 Problem solving • 📚 Continuous learning
 </p>
