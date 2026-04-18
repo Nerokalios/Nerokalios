@@ -84,15 +84,3 @@ I enjoy understanding how things work under the hood and building simple but eff
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 ---
-
-## ⚙️ Philosophy
-
-<p align="center">
-<i>"Automate the repetitive, optimize what matters."</i>
-</p>
-
----
-
-<p align="center">
-  <img src="https://steamcard.io/api/card/76561198414418768" />
-</p>
