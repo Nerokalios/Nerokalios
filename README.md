@@ -63,24 +63,14 @@ I enjoy understanding how things work under the hood and building simple but eff
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20Automate-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 
-<!-- Backend / APIs -->
-<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JSON/XML-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python%20Requests-3776AB?style=for-the-badge"/>
-
 <!-- Data -->
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenPyXL-1D6F42?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <!-- Tools -->
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<!-- OS & Practices -->
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Debugging%20%26%20Logging-333333?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 </p>
 
