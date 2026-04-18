@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hola, soy [Tu Nombre]
 
-<!--
-**Nerokalios/Nerokalios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador en formación / Software Developer  
+📍 Basado en Brasil  
+🚀 Apasionado por la programación, la automatización y el aprendizaje continuo
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+
+- 🔭 Actualmente trabajando en proyectos personales
+- 🌱 Aprendiendo: Java, Python y desarrollo backend
+- 💡 Interesado en crear soluciones eficientes y escalables
+- 🎯 Objetivo: Convertirme en un desarrollador full-stack sólido
+
+---
+
+## 🛠️ Tecnologías
+
+- Java ☕
+- Python 🐍
+- JavaScript ⚡
+- Git & GitHub 🌿
+- SQL 🗄️
+
+---
+
+## 📊 Estadísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contacto
+
+- GitHub: https://github.com/TU_USUARIO
+- Email: tuemail@email.com
